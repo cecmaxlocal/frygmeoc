@@ -3,7 +3,7 @@
 ## Overview
 The ./frygmeoc project is a FreeBASIC-based solution providing IDE extensions, packages, and installation support focusing on Markets, Galileo(s), Galileans, and Municipalities. This project is modular, leveraging FreeBASIC's extensibility to facilitate development workflows tailored for municipal license and market management systems with Galileo-inspired methodologies.
 
-
+![IDEMarket](./matrix/cec/images/logon.png)
 
 ## Features
 
