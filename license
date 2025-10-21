@@ -1,0 +1,27 @@
+Open source licenses for software provide users with the rights to freely use, modify, and distribute software under defined conditions. These licenses promote transparency, collaboration, and community-driven development by granting freedoms that proprietary licenses restrict.
+
+Key popular open source licenses include:
+- MIT License: Permissive and simple, allowing nearly unrestricted use with only attribution required.
+- GNU General Public License (GPL): A strong copyleft license requiring derivative works to carry the same license.
+- Apache License 2.0: Permissive with explicit patent grants, widely used in enterprise and cloud software.
+- BSD Licenses: Family of permissive licenses with minimal restrictions.
+- Creative Commons (CC) Licenses: Often used for content and documentation alongside code.
+
+Open source license management in municipal or government contexts often involves selecting licenses compatible with transparency, public accessibility, and collaboration goals. Open source municipal software projects enable improved civic engagement, accountability, and cost savings.
+
+Many local governments leverage open source license packages and tools as part of their digital transformation to provide citizen-centric services efficiently while avoiding vendor lock-in.
+
+In practice, open source licenses require compliance with attribution, disclosure of modifications, and sometimes offer patent protections. They empower users and organizations to adapt solutions to local needs freely.
+
+Thus, open source licensing fosters innovation and democratizes software use and development, including in municipal and government software ecosystems. It supports reliability, security, and inclusive public service innovation.[1][2][9][10]
+
+[1](https://munilogic.com/munilogicCE-municipal-management-software)
+[2](https://github.com/cityssm/awesome-open-city-gov-apps)
+[3](https://www.usu.com/en/it-asset-management/license-management)
+[4](https://opengov.com)
+[5](https://opengov.com/software-for/city-governments/)
+[6](https://www.softwarereviews.com/categories/license-and-permit-management)
+[7](https://www.tylertech.com/products/enterprise-permitting-licensing)
+[8](https://www.openlm.com/software-license-management/)
+[9](https://opensource.com/government/13/10/tools-open-source-cities)
+[10](https://www.blackduck.com/blog/top-open-source-licenses.html)

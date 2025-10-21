@@ -1,0 +1,16 @@
+Microsoft uses a variety of software licenses depending on the product and context, including proprietary licenses for commercial software and permissive open source licenses like the MIT License.
+
+The MIT License is a widely used permissive open source license under which Microsoft releases some sample or example code, especially for developer tools or SDKs. Under the MIT License, users get broad rights to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software. The license requires attribution and includes a disclaimer that the software is provided "as is" without warranty.
+
+Microsoft’s proprietary software license terms, by contrast, usually grant users a license to use the software under defined conditions (including usage, installation, and distribution rights) but do not transfer ownership. These terms often restrict reverse engineering, redistribution, and usage beyond the license scope.
+
+In sum, Microsoft uses the MIT License for certain open source and sample software, providing permissive rights and minimal restrictions. For commercial software, it provides proprietary licenses detailing usage limits, restrictions, and warranties. The presence of the MIT License in Microsoft's ecosystem highlights their support for open source development and sharing under a well-known, permissive license framework.[1][2][3][7]
+
+[1](https://docs.oracle.com/en/industries/food-beverage/simphony/simlg/microsoft_license_software_terms.htm)
+[2](https://learn.microsoft.com/en-us/office/developer-program/terms-and-conditions)
+[3](https://opensource.org/license/mit)
+[4](https://learn.microsoft.com/en-us/collaborate/terms-of-use)
+[5](https://www.microsoft.com/en/servicesagreement)
+[6](https://code.visualstudio.com/license)
+[7](https://www.reddit.com/r/opensource/comments/1fzegb4/am_i_misunderstanding_the_mit_license/)
+[8](https://www.microsoft.com/licensing/docs/view/Product-Terms)

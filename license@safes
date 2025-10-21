@@ -1,0 +1,26 @@
+Safe Software, known for its FME (Feature Manipulation Engine) platform, offers several types of licenses designed for different usage scenarios:
+
+1. Single-Fixed License (Node-Locked): This license ties the software to a specific physical computer via a unique registration key. It allows FME to operate only on that machine. Each computer requires its own license.
+
+2. Floating License: This license model allows a company to install FME on multiple workstations but limits the number of concurrent users based on the number of available licenses. A license server manages issuance and return of licenses dynamically. Floating licenses are helpful where not all users require FME simultaneously.
+
+3. Subscription Licenses: Some options include subscription models covering various editions of FME such as Desktop, Server, Cloud, and Home versions.
+
+4. Licensing Flexibility: Safe Software increasingly offers unified licenses to avoid choosing fixed vs floating separately. This assists in simplified license management.
+
+Licenses typically permit use in a single environment and require adherence to terms restricting copying, redistribution, or use outside licensed terms. Separate licenses may be needed for disaster recovery setups or multiple environments.
+
+Safe Software provides license management tools and documentation to assist with installation, activation, and troubleshooting of licenses.
+
+In essence, Safe Software licenses for FME focus on flexibility through fixed or floating licenses, supporting both individual and enterprise use cases, with subscription and perpetual options to suit diverse needs. License details are available through Safe Software’s official channels.[2][3][4][5][6]
+
+[1](https://www.blackduck.com/blog/5-types-of-software-licenses-you-need-to-understand.html)
+[2](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Determining_the_FME_License_Type_to_Install.htm)
+[3](https://www.redgeographics.com/blog/fme-licenties-2020/)
+[4](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Licensing.htm)
+[5](https://fme.safe.com/pricing/)
+[6](https://www.safe.com/legal/)
+[7](https://cpl.thalesgroup.com/software-monetization/software-licensing-models-guide)
+[8](https://mkp.gem.gov.in/extract-transform-load-spatial-geospatial-data-software/fme-form-2023/p-5116877-4292715016-cat.html)
+[9](https://www.globema.com/fme-safe-software-announces-rebranding/)
+[10](https://support.safe.com/hc/en-us/articles/25407652135693-How-Do-I-Know-What-FME-Build-License-or-Version-I-am-Running)

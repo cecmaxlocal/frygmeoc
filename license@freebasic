@@ -1,0 +1,23 @@
+FreeBASIC, the open-source BASIC compiler, is released under the GNU General Public License (GPL). This means the compiler's source code itself is freely available under GPL terms. However, programs you compile with FreeBASIC are not automatically covered by the GPL—you may license your own programs under any terms you choose, including proprietary licenses.
+
+Key licensing points for FreeBASIC:
+- FreeBASIC compiler (fbc) is GPL licensed.
+- The standard runtime libraries include some under LGPL, such as the fbgfx graphics library. LGPL permits linking without requiring your own code to be open source.
+- You can create and sell closed-source commercial programs compiled with FreeBASIC, provided you do not modify and distribute GPLed FreeBASIC compiler code.
+- If you include or modify parts of the FreeBASIC compiler or certain GPL code in your project, you must disclose source code under GPL terms.
+- The fbgfx library's license situation introduces some legal uncertainty for commercial usage, but alternatives like SDL can be used to avoid it.
+
+In summary, you are free to use FreeBASIC to write commercial, closed-source software. Just keep in mind the GPL applies only to the FreeBASIC compiler code itself, not to your compiled programs, unless you incorporate GPL-covered FreeBASIC source code in your projects. Using LGPL libraries linked dynamically poses no open source obligation on your own code.
+
+This licensing model balances FreeBASIC's open development with commercial flexibility for users.[1][3][4][6][9]
+
+[1](https://freebasic.net/forum/viewtopic.php?t=9727)
+[2](https://sharpbasic.com/downloads/mlgpl.html)
+[3](https://www.freebasic.net/forum/viewtopic.php?t=10574)
+[4](https://www.freebasic.net/wiki/wikka.php?wakka=GnuLicenses)
+[5](https://freebasic.net/forum/viewtopic.php?t=31075)
+[6](https://en.wikipedia.org/wiki/FreeBASIC)
+[7](https://www.freebasic.net/forum/viewtopic.php?t=18886)
+[8](https://github.com/freebasic/fbc)
+[9](https://freebasic.net)
+[10](https://sourceforge.net/projects/fbc/)

@@ -1,0 +1,23 @@
+Safe Software offers license packages for its FME platform designed to accommodate diverse user needs and deployment requirements. The primary license packages include:
+
+- Single-Fixed License (Node-Locked License): Tied to a single physical machine; intended for standalone use. Each device requires a unique license.
+- Floating License: Allows multiple users to share a set number of licenses dynamically, ideal for organizations with many users but fewer concurrent operators. Licensed via a FlexNet license server.
+- Subscription Licenses: Flexible subscription plans primarily for enterprises, enabling scalable user access and frequent updates without large upfront costs.
+- FME Packages (.fpkg): Modular add-ons containing transformers, readers/writers, or web connections that can be independently installed and upgraded without upgrading the whole core FME platform.
+
+These licenses enable a range of deployment scenarios including desktop, server, cloud, and virtualized environments. The package infrastructure allows users to tailor installations to their specific integrations and workflows, enhancing adaptability and reducing unnecessary overhead.
+
+Subscription models provide flexibility and scale for growing businesses, while single-fixed and floating options serve traditional license management preferences. Safe Software maintains tools for license activation, management, and support, ensuring efficient license lifecycle handling.
+
+Hence, Safe Software license packages balance modular extension, user concurrency, and deployment flexibility for data integration tasks via FME.[1][3][4][5]
+
+[1](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Determining_the_FME_License_Type_to_Install.htm)
+[2](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/installing_fmelic_file.htm)
+[3](https://support.safe.com/hc/en-us/articles/31697273147533-Introduction-to-FME-Packages)
+[4](https://www.consortech.com/5_reasons_to_choose_the_fme_subscription_model/)
+[5](https://fme.safe.com/pricing/)
+[6](https://fme.safe.com/pricing/charitable-licenses/)
+[7](https://mkp.gem.gov.in/extract-transform-load-spatial-geospatial-data-software/fme-form-2023/p-5116877-4292715016-cat.html)
+[8](https://www.gsaadvantage.gov/ref_text/GS35F0254T/GS35F0254T_online.htm)
+[9](https://www.avineon-tensing.com/en-gb/technology/fme/fme-licensing-subscriptions)
+[10](https://www.reddit.com/r/gis/comments/1e1jk58/from_1st_august_2025_safe_are_deprecating_older/)
