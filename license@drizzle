@@ -1,0 +1,23 @@
+Drizzle is an open-source relational database management system (DBMS) that was forked from the MySQL 6.0 development branch. It was designed with a microkernel architecture to improve modularity and performance. Key aspects of its license include:
+
+- Drizzle is licensed under version 2 and 3 of the GNU General Public License (GPL), which is a copyleft license requiring that derived works also be open source under the GPL.
+- Portions of Drizzle, including the libdrizzle client library, are under the BSD license, which is permissive and allows more freedom in usage and distribution without copyleft obligations.
+- As an open-source project, Drizzle's source code and documentation have historically been freely available, with contributions from multiple organizations including Canonical, Google, and Red Hat.
+- The project officially ended active development around 2016 but the code remains accessible under these licenses.
+
+Therefore, Drizzle’s licensing model predominantly revolves around GPL for the core server, ensuring freedom and openness while encouraging community contributions, with BSD licensing for select libraries offering more permissive usage.
+
+For users, this means Drizzle can be freely used, modified, and distributed within the terms of these licenses; GPL requires disclosure of source when distributing modified versions whereas BSD permits proprietary use without disclosure.
+
+This hybrid licensing approach balanced Drizzle's goals of open collaboration and commercial applicability in the database ecosystem.[1][5]
+
+[1](https://en.wikipedia.org/wiki/Drizzle_(database_server))
+[2](https://orm.drizzle.team)
+[3](https://dbdb.io/db/drizzle)
+[4](https://github.com/drizzle-team/drizzle-orm)
+[5](https://db-engines.com/en/system/Drizzle)
+[6](https://www.npmjs.com/package/drizzle-orm/v/0.15.3-1c43305)
+[7](https://stackinfo.me/technologies/drizzleorm)
+[8](https://www.reddit.com/r/node/comments/1l3uj8j/anyone_else_concerned_about_drizzle_orms_longterm/)
+[9](https://refine.dev/blog/drizzle-react/)
+[10](https://betterstack.com/community/guides/scaling-nodejs/drizzle-orm/)
